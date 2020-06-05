@@ -1,6 +1,3 @@
-#Build FP to be picked by both system and vendor
-BUILD_FINGERPRINT := "Xiaomi/platina/platina:10/QKQ1.190910.002/V11.0.1.0.QDTMIXM:user/release-keys"
-
 # ART
 PRODUCT_PROPERTY_OVERRIDES += \
     dalvik.vm.boot-dex2oat-threads=8 \
